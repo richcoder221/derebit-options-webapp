@@ -1,8 +1,13 @@
-# Deribit Volatility Surface and Greeks Analyzer
+# Deribit Crypto Options Implied Volatility Surface, Greeks and Max Pain Analyzer
 
 Live Demo: https://derebit-options-webapp-sts8eu7dku5cdbyayvtklp.streamlit.app/
 
-A real-time options analytics tool that connects to Deribit's WebSocket API to visualize volatility surfaces and calculate option Greeks for cryptocurrency options.
+A real-time options analytics tool that connects to Deribit's WebSocket API to visualize volatility surfaces, calculate option Greeks and display max pain chart for cryptocurrency options.
+
+| Implied Volatility Surface                                                      | Option Greeks                                                                   | Max Pain                                                                        |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ![](https://github.com/richcoder221/derebit-options-webapp/blob/main/demo1.png) | ![](https://github.com/richcoder221/derebit-options-webapp/blob/main/demo3.png) | ![](https://github.com/richcoder221/derebit-options-webapp/blob/main/demo2.png) |
+
 
 ## Features
 
